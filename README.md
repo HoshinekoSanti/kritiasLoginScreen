@@ -1,0 +1,1 @@
+Just a tiny little mod for Mushroom Launcher 2 to change the game from the nostalgic, tear-jerking "RoadToHome" login screen to a more calm and relaxing Kritias version of it. Intended for personal use mostly, but feel free to use it too.
